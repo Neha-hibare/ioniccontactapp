@@ -1,0 +1,489 @@
+{
+
+    "userData" : [{
+        "city" : "kalaburagi",
+        "cityCode" : "1",
+        "areaList" : [{
+            "area" : "jainagar",
+             "areaCode" : "area123",
+            "users" : [{
+                "user" : "Rajashekhar Patil",
+                "id" : "1",
+                "about" : "Rajashekhar is resident in gulbarga since 10 years and have contributed to society by his active participation in social events",
+
+                "address" : {
+                    "residencyName" : "sweet-home",
+                    "streetAddress" : "lane-3, cross-12, patel marg",
+                    "landMark" : "vallabhai circle",
+                    "homeNumber" : "08472-265063",
+                    "mobileNumber" : "9986765678",
+                    "wardNo" : "223",
+                    "constituency" : "Gulbarga North"
+                },
+                "socialNetworking" : {
+                    "facebook" : "fb.com/Rajashekhar",
+                    "twitter" : "twitter.com/Rajashekhar",
+                    "instagram" : "instagram.com/Rajashekhar",
+                    "google" : "google.com/Rajashekhar",
+                    "telegram" : ""
+                } ,
+                "profession" : {
+                    "title" : "Doctor",
+                    "organisation" : "xyz",
+                    "position" : "Director",
+                    "achievments" : "Philanthropist and social worker",
+                    "otherDetails" : "good in helping others.. can be communicated when in city"
+                }, 
+                "family" : {
+                    "gents" : "2",
+                    "ladies" : "2",
+                    "disease" : ["sugar","bp","cancer"],
+                    "specialities" : ["doctor","engineer","post officer"]
+                },
+                "identities" : {
+                    "aadhar" : "3026 2420 3290",
+                    "pan" : "Ackty6768r",
+                    "pollNumber" : "poll12345",
+                    "electionId" : "STXY8K",
+                    "kebMeter" : "EH-3125",
+                    "drivingLicense" : "KA32-20010101000100"
+                }
+
+                },
+                {
+                "user" : "Sham Ture",
+                "id" : "2",
+                 "about" : "Sham is resident in gulbarga since 10 years and have contributed to society by his active participation in social events",
+               
+                "address" : {
+                    "residencyName" : "Sharana-Krupa",
+                    "streetAddress" : "lane-13, cross-3, sriram marg",
+                    "landMark" : "samudhaya Bhavan circle",
+                    "homeNumber" : "08472-265063",
+                    "mobileNumber" : "9986765678",
+                    "wardNo" : "223",
+                    "constituency" : "Gulbarga North"
+                },
+                "socialNetworking" : {
+                    "facebook" : "fb.com/Sham",
+                    "twitter" : "twitter.com/Sham",
+                    "instagram" : "instagram.com/Sham",
+                    "google" : "google.com/Sham",
+                    "telegram" : "telegram.com/Sham"
+                } ,
+                "profession" : {
+                    "title" : "Doctor",
+                    "organisation" : "xyz",
+                    "position" : "Director",
+                    "achievments" : "Philanthropist and social worker",
+                    "otherDetails" : "good in helping others.. can be communicated when in city"
+                }, 
+                "family" : {
+                    "gents" : "2",
+                    "ladies" : "2",
+                    "disease" : ["sugar","bp","cancer"],
+                    "specialities" : ["doctor","engineer","post officer"]
+                },
+                "identities" : {
+                    "aadhar" : "3026 2420 3290",
+                    "pan" : "Ackty6768r",
+                    "pollNumber" : "poll12345",
+                    "electionId" : "STXY8K",
+                    "kebMeter" : "EH-3125",
+                    "drivingLicense" : "KA32-20010101000100"
+                }
+                },
+
+                           {
+                "user" : "Danish Sait",
+                "id" : "3",
+                 "about" : "Danish Sait is actor and a humble politician. With his career in MBA and profession in acting, film making and playing hockey is his hobby. ",
+               
+                "address" : {
+                    "residencyName" : "Vidya Nagar",
+                    "streetAddress" : "H.no 2-907 near st peter church",
+                    "landMark" : " Vijaya vidyala school",
+                    "homeNumber" : "08472-263837",
+                    "mobileNumber" : "8896767533",
+                    "wardNo" : "223",
+                    "constituency" : "Gulbarga North"
+                },
+                "socialNetworking" : {
+                    "facebook" : "fb.com/Danish",
+                    "twitter" : "twitter.com/Danish",
+                    "instagram" : "instagram.com/Danish",
+                    "google" : "google.com/Danish",
+                    "telegram" : "telegram.com/Danish"
+                } ,
+                "profession" : {
+                    "title" : "Humble Politician",
+                    "organisation" : "Sandalwood",
+                    "position" : "Actor",
+                    "achievments" : "MBA, Politician, Actor, Hockey",
+                    "otherDetails" : "good in helping others.. can be communicated when in city"
+                }, 
+                "family" : {
+                    "gents" : "6",
+                    "ladies" : "4",
+                    "disease" : ["sugar","bp","cancer"],
+                    "specialities" : ["actor","mba","mainstream"]
+                },
+                "identities" : {
+                    "aadhar" : "3026 2420 3290",
+                    "pan" : "Ackty6768r",
+                    "pollNumber" : "poll12345",
+                    "electionId" : "STXY8K",
+                    "kebMeter" : "EH-3125",
+                    "drivingLicense" : "KA32-20010101000100"
+                }
+
+                },
+                {
+                "user" : "Eshwar Mukarambi",
+                "id" : "4",
+                 "about" : "Eshwar Mukarambi is resident in gulbarga since 10 years and have contributed to society by his active participation in social events",
+               
+                "address" : {
+                    "residencyName" : "Sharana-Krupa",
+                    "streetAddress" : "lane-13, cross-3, sriram marg",
+                    "landMark" : "samudhaya Bhavan circle",
+                    "homeNumber" : "08472-265063",
+                    "mobileNumber" : "9986765678",
+                    "wardNo" : "223",
+                    "constituency" : "Gulbarga North"
+                },
+                "socialNetworking" : {
+                    "facebook" : "fb.com/Eshwar Mukarambi",
+                    "twitter" : "twitter.com/Eshwar Mukarambi",
+                    "instagram" : "instagram.com/Eshwar Mukarambi",
+                    "google" : "google.com/Eshwar Mukarambi",
+                    "telegram" : "telegram.com/Eshwar Mukarambi"
+                } ,
+                "profession" : {
+                    "title" : "Pumber",
+                    "organisation" : "works at public affairs",
+                    "position" : "Director",
+                    "achievments" : "Philanthropist and social worker",
+                    "otherDetails" : "good in helping others.. can be communicated when in city"
+                }, 
+                "family" : {
+                    "gents" : "2",
+                    "ladies" : "3",
+                    "disease" : ["skin issues","bp","sugar"],
+                    "specialities" : ["social worker","corporation","memnber"]
+                },
+                "identities" : {
+                    "aadhar" : "3026 2420 3290",
+                    "pan" : "Ackty6768r",
+                    "pollNumber" : "poll12345",
+                    "electionId" : "STXY8K",
+                    "kebMeter" : "EH-3125",
+                    "drivingLicense" : "KA32-20010101000100"
+                }
+
+                },
+                {
+                "user" : "Girija Biradar",
+                "id" : "6",
+                 "about" : "Girija Biradar is resident in gulbarga since 10 years and have contributed to society by his active participation in social events",
+               
+                "address" : {
+                    "residencyName" : "Biradar Gruha",
+                    "streetAddress" : "2nd main, 3rd cross, 4rth Apartment",
+                    "landMark" : "Sangameshwar Sabha Graha",
+                    "homeNumber" : "08472-765656",
+                    "mobileNumber" : "7586665678",
+                    "wardNo" : "223",
+                    "constituency" : "Gulbarga North"
+                },
+                "socialNetworking" : {
+                    "facebook" : "fb.com/Girija Biradar",
+                    "twitter" : "twitter.com/Girija Biradar",
+                    "instagram" : "instagram.com/Girija Biradar",
+                    "google" : "google.com/Girija Biradar",
+                    "telegram" : "telegram.com/Girija Biradar"
+                } ,
+                "profession" : {
+                    "title" : "Doctor",
+                    "organisation" : "NV Degree College",
+                    "position" : "Lecture",
+                    "achievments" : "rank holder in Gulbarga University Gulbarga",
+                    "otherDetails" : "Subject Expertise : Political Science"
+                }, 
+                "family" : {
+                    "gents" : "2",
+                    "ladies" : "3",
+                    "disease" : ["No Ailments"],
+                    "specialities" : ["Lecture","Working women","Public Talks"]
+                },
+                "identities" : {
+                    "aadhar" : "3026 2420 3290",
+                    "pan" : "Ackty6768r",
+                    "pollNumber" : "poll12345",
+                    "electionId" : "STXY8K",
+                    "kebMeter" : "EH-3125",
+                    "drivingLicense" : "KA32-20010101000100"
+                }
+
+                },
+                {
+                "user" : "Trupti Bulbule",
+                "id" : "13",
+                 "about" : "Trupti is resident in gulbarga since 10 years and have contributed to society by his active participation in social events",
+               
+                "address" : {
+                    "residencyName" : "Sharana-Krupa",
+                    "streetAddress" : "lane-13, cross-3, sriram marg",
+                    "landMark" : "samudhaya Bhavan circle",
+                    "homeNumber" : "08472-265063",
+                    "mobileNumber" : "9986765678",
+                    "wardNo" : "223",
+                    "constituency" : "Gulbarga North"
+                },
+                "socialNetworking" : {
+                    "facebook" : "fb.com/Trupti",
+                    "twitter" : "twitter.com/Trupti",
+                    "instagram" : "instagram.com/Trupti",
+                    "google" : "google.com/Trupti",
+                    "telegram" : "telegram.com/Trupti"
+                } ,             "profession" : {
+                    "title" : "Doctor",
+                    "organisation" : "xyz",
+                    "position" : "Director",
+                    "achievments" : "Philanthropist and social worker",
+                    "otherDetails" : "good in helping others.. can be communicated when in city"
+                }, 
+                "family" : {
+                    "gents" : "2",
+                    "ladies" : "2",
+                    "disease" : ["sugar","bp","cancer"],
+                    "specialities" : ["doctor","engineer","post officer"]
+                },
+                "identities" : {
+                    "aadhar" : "3026 2420 3290",
+                    "pan" : "Ackty6768r",
+                    "pollNumber" : "poll12345",
+                    "electionId" : "STXY8K",
+                    "kebMeter" : "EH-3125",
+                    "drivingLicense" : "KA32-20010101000100"
+                }
+
+                },
+                {
+                "user" : "Sham Ture",
+                "id" : "2",
+                 "about" : "Sham is resident in gulbarga since 10 years and have contributed to society by his active participation in social events",
+               
+                "address" : {
+                    "residencyName" : "Sharana-Krupa",
+                    "streetAddress" : "lane-13, cross-3, sriram marg",
+                    "landMark" : "samudhaya Bhavan circle",
+                    "homeNumber" : "08472-265063",
+                    "mobileNumber" : "9986765678",
+                    "wardNo" : "223",
+                    "constituency" : "Gulbarga North"
+                },
+                "socialNetworking" : {
+                    "facebook" : "fb.com/Sham",
+                    "twitter" : "twitter.com/Sham",
+                    "instagram" : "instagram.com/Sham",
+                    "google" : "google.com/Sham",
+                    "telegram" : "telegram.com/Sham"
+                } ,
+                "profession" : {
+                    "title" : "Doctor",
+                    "organisation" : "xyz",
+                    "position" : "Director",
+                    "achievments" : "Philanthropist and social worker",
+                    "otherDetails" : "good in helping others.. can be communicated when in city"
+                }, 
+                "family" : {
+                    "gents" : "2",
+                    "ladies" : "2",
+                    "disease" : ["sugar","bp","cancer"],
+                    "specialities" : ["doctor","engineer","post officer"]
+                },
+                "identities" : {
+                    "aadhar" : "3026 2420 3290",
+                    "pan" : "Ackty6768r",
+                    "pollNumber" : "poll12345",
+                    "electionId" : "STXY8K",
+                    "kebMeter" : "EH-3125",
+                    "drivingLicense" : "KA32-20010101000100"
+                }
+
+                }]
+            }]
+
+    }],
+    
+    "categories": [{
+        "id": 1,
+        "name": "Doctor"
+    },{
+        "id": 2,
+        "name": "Pumber"
+    },{
+        "id": 3,
+        "name": "Humble Politician"
+    }
+      ],
+
+
+
+
+  "map": [{
+    "name": "Monona Terrace Convention Center",
+    "lat": 43.071584,
+    "lng": -89.380120,
+    "center": true
+  }, {
+    "name": "Ionic HQ",
+    "lat": 43.074395,
+    "lng": -89.381056
+  }, {
+    "name": "Afterparty - Brocach Irish Pub",
+    "lat": 43.07336,
+    "lng": -89.38335
+  }],
+
+
+  "contacts": [{
+    "name": "Rajashekhar Patil",
+    "profilePic": "assets/img/speakers/bear.jpg",
+    "twitter": "ionicframework",
+    "about": "Burt is a Bear.",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Doctor",
+    "id": "1"
+  }, {
+    "name": "Sham Ture",
+    "profilePic": "assets/img/speakers/cheetah.jpg",
+    "twitter": "ionicframework",
+    "about": "Charlie is a Cheetah.",
+    "location": "Everywhere",
+    "email": "charlie@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Doctor",
+    "id": "2"
+  }, {
+    "name": "Danish Sait",
+    "profilePic": "assets/img/speakers/duck.jpg",
+    "twitter": "ionicframework",
+    "about": "Donald is a Duck.",
+    "location": "Everywhere",
+    "email": "donald@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Humble Politician",
+    "id": "3"
+  }, { 
+    "name": "Eshwar Mukrambi",    
+    "profilePic": "assets/img/speakers/eagle.jpg",
+    "twitter": "ionicframework",
+    "about": "Eva is an Eagle.",
+    "location": "Everywhere",
+    "email": "eva@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Pumber",
+    "id": "4"
+  }, {
+    "name": "Iranna Khanagal",
+    "profilePic": "assets/img/speakers/elephant.jpg",
+    "twitter": "ionicframework",
+    "about": "Ellie is an Elephant.",
+    "location": "Everywhere",
+    "email": "ellie@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Doctor",
+    "id": "5"
+  }, {
+    "name": "Girija Biradar",
+    "profilePic": "assets/img/speakers/giraffe.jpg",
+    "twitter": "ionicframework",
+    "about": "Gino is a Giraffe.",
+    "location": "Everywhere",
+    "email": "gino@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Doctor",
+    "id": "6"
+  }, {
+    "name": "Isha Shah",
+    "profilePic": "assets/img/speakers/iguana.jpg",
+    "twitter": "ionicframework",
+    "about": "Isabella is an Iguana.",
+    "location": "Everywhere",
+    "email": "isabella@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Engineer",
+    "profession": "Doctor",
+    "id": "7"
+  }, {
+    "name": "Kavita Kaikani",
+    "profilePic": "assets/img/speakers/kitten.jpg",
+    "twitter": "ionicframework",
+    "about": "Karl is a Kitten.",
+    "location": "Everywhere",
+    "email": "karl@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Doctor",
+    
+    "id": "8"
+  }, {
+    "name": "Lavanya Shekhar",
+    "profilePic": "assets/img/speakers/lion.jpg",
+    "twitter": "ionicframework",
+    "about": "Lionel is a Lion.",
+    "location": "Everywhere",
+    "email": "lionel@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Doctor",
+    "id": "9"
+  }, {
+    "name": "Manish Moudgil",
+    "profilePic": "assets/img/speakers/mouse.jpg",
+    "twitter": "ionicframework",
+    "about": "Molly is a Mouse.",
+    "location": "Everywhere",
+    "email": "molly@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Doctor",
+    "id": "10"
+  }, {
+    "name": "Prashanth Mayani",
+    "profilePic": "assets/img/speakers/puppy.jpg",
+    "twitter": "ionicframework",
+    "about": "Paul is a Puppy.",
+    "location": "Everywhere",
+    "email": "paul@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Doctor",
+    "id": "11"
+  }, {
+    "name": "Ravindra Kallesh",
+    "profilePic": "assets/img/speakers/rabbit.jpg",
+    "twitter": "ionicframework",
+    "about": "Rachel is a Rabbit.",
+    "location": "Everywhere",
+    "email": "rachel@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Doctor",
+    "id": "12"
+  }, {
+    "name": "Trupti Bulbule",
+    "profilePic": "assets/img/speakers/turtle.jpg",
+    "twitter": "ionicframework",
+    "about": "Ted is a Turtle.",
+    "location": "Everywhere",
+    "email": "ted@example.com",
+    "phone": "+1-541-754-3010",
+    "profession": "Doctor",
+    "id": "13"
+  }]
+}
+
+
+
+
+

@@ -1,0 +1,115 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>{{userSelected?.user}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class="speaker-detail">
+  <div text-center *ngIf="speaker">
+    <img [src]="speaker.profilePic" [alt]="userSelected.user"><br>
+
+    <button ion-button icon-only clear small color="twitter">
+      <ion-icon name="logo-twitter"></ion-icon>
+    </button>
+    <button ion-button icon-only clear small color="github">
+      <ion-icon name="logo-github"></ion-icon>
+    </button>
+    <button ion-button icon-only clear small color="instagram">
+      <ion-icon name="logo-instagram"></ion-icon>
+    </button>
+  </div>
+
+  <p>{{userSelected?.user}}</p>
+  <p>{{userSelected?.id}}</p>
+  <p>{{userSelected?.about}}</p>
+  <ion-list>
+    <ion-item>
+      <ion-avatar item-start>
+         <ion-icon name="home"></ion-icon>
+      </ion-avatar>
+      <h2>Address Details</h2>
+      <h4><label>Residency : </label> {{userSelected?.address?.residencyName}}</h4>
+      <h4><label>Street : </label>{{userSelected.address?.streetAddress}}</h4>
+      <h4><label>LandMark :</label> {{userSelected.address?.landMark}}</h4>
+      <h4><label>Home Number :</label> {{userSelected.address?.homeNumber}}</h4>
+      <h4><label>Mobile : </label>{{userSelected.address?.mobileNumber}}</h4>
+      <h4><label>Ward No :</label> {{userSelected.address?.wardNo}}</h4>
+      <h4><label>Constituency : </label>{{userSelected.address?.constituency}}</h4> 
+      
+    </ion-item>
+      <ion-item>
+      <ion-avatar item-start>
+         <ion-icon name="md-git-network"></ion-icon>
+      </ion-avatar>
+      <h2>Social Networking </h2>
+      <h4><label>facebook : </label>{{userSelected?.socialNetworking?.facebook}}</h4>
+      <h4><label>twitter : </label>{{userSelected.socialNetworking?.twitter}}</h4>
+      <h4><label>instagram :</label> {{userSelected.socialNetworking?.instagram}}</h4>
+      <h4><label>google : </label>{{userSelected.socialNetworking?.google}}</h4>
+      <h4><label>telegram :</label> {{userSelected.socialNetworking?.telegram}}</h4>
+     
+      
+    </ion-item>
+    <ion-item>
+      <ion-avatar item-start>
+         <ion-icon name="md-school"></ion-icon>
+      </ion-avatar>
+      <h2>Profession </h2>
+      <h4><label>title :</label> {{userSelected?.profession?.title}}</h4>
+      <h4><label>organisation :</label> {{userSelected.profession?.organisation}}</h4>
+      <h4><label>position :</label> {{userSelected.profession?.position}}</h4>
+      <h4><label>achievments :</label> {{userSelected.profession?.achievments}}</h4>
+      <p><label>otherDetails : </label>{{userSelected.profession?.otherDetails}}</p>
+     
+      
+    </ion-item>
+
+
+     <ion-item>
+      <ion-avatar item-start>
+         <ion-icon name="md-contacts"></ion-icon>
+      </ion-avatar>
+      <h2>Family </h2>
+      <h4><label>Male # :</label> {{userSelected?.family?.gents}}</h4>
+      <h4><label>Female # : </label>{{userSelected.family?.ladies}}</h4>
+      <h4><label>Medical Ailments: </label>{{userSelected.family?.disease}}</h4>
+      <h4><label>Specialities : </label>{{userSelected.family?.specialities}}</h4>
+     
+     
+      
+    </ion-item>
+
+    <ion-item>
+      <ion-avatar item-start>
+           <ion-icon ios="ios-card" md="md-card"></ion-icon>
+      </ion-avatar>
+      <h2>Identities </h2>
+      <h4><label>aadhar # :</label> {{userSelected?.identities?.aadhar}}</h4>
+      <h4><label>pan # : </label>{{userSelected.identities?.pan}}</h4>
+      <h4><label>pollNumber: </label>{{userSelected.identities?.pollNumber}}</h4>
+      <h4><label>electionId : </label>{{userSelected.identities?.electionId}}</h4>
+      <h4><label>kebMeter : </label>{{userSelected.identities?.kebMeter}}</h4>
+      <h4><label>drivingLicense : </label>{{userSelected.identities?.drivingLicense}}</h4>
+    </ion-item>
+</ion-list>
+
+
+</ion-content>
+
+
+<!-- 
+     "family" : {
+                    "gents" : "2",
+                    "ladies" : "2",
+                    "disease" : ["sugar","bp","cancer"],
+                    "specialities" : ["doctor","engineer","post officer"]
+                },
+                "identities" : {
+                    "aadhar" : "3026 2420 3290",
+                    "pan" : "Ackty6768r",
+                    "pollNumber" : "poll12345",
+                    "electionId" : "STXY8K",
+                    "kebMeter" : "EH-3125",
+                    "drivingLicense" : "KA32-20010101000100"
+                }
+ -->
